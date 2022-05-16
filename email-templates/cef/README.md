@@ -1,0 +1,1 @@
+<img src="preview-cef-email-template.jpg" alt="CEF email template" width="100%" />
