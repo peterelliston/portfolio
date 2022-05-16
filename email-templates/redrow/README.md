@@ -1,1 +1,1 @@
-<img src="preview-redrow-email-template.png" alt="Redrow email template" />
+<img src="preview-redrow-email-template.jpg" alt="Redrow email template" width="100%" />
