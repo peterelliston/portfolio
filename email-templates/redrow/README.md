@@ -1,0 +1,1 @@
+<img src="preview-redrow-email-template.png" alt="Redrow email template" />
